@@ -1,0 +1,1 @@
+Select * From	Скидки where До = '100'
